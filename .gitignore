@@ -1,0 +1,4 @@
+.idea
+main
+go_build_main_go
+go.sum
